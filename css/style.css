@@ -1,0 +1,169 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #40514E;
+
+  }
+
+.top-container {
+  /* padding: 50px; */
+  background: #FEF9EF;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+
+.intro {
+  width: 30%;
+  margin: 0 auto;
+  line-height: 2;
+  padding-bottom: 15px;
+}
+
+h1{
+  font-family: 'Josefin Slab', serif;
+  font-size: 4.375em;
+  /* or font-size: 437.5% */
+  font-weight: bolder;
+  margin: 50px auto 0 auto;
+  color: #789395;
+  padding: 20px auto 20px auto;
+
+}
+
+h2 {
+  font-family: 'Josefin Slab', serif;
+font-size: 2.5rem;
+font-weight: bolder;
+color: #789395;
+text-align: center;
+margin: 20px auto;
+padding: 40px auto 20px auto;
+}
+
+h3 {
+  color: #00B4D8;
+  font-family: 'Josefin Slab', serif;
+  font-weight: bolder;
+  font-size: 1.5635rem;
+}
+
+a {
+  color: #789395;
+}
+
+
+
+.pfp  {
+width: 10%;
+margin-bottom: 20px;
+border-radius: 100%;
+}
+
+
+.top-cloud{
+position: absolute;
+right: 300px;
+top: 50px;
+width: 10%;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  width: 10%;
+
+}
+
+
+hr {
+  border: dotted darkgrey 6px;
+  border-bottom: none;
+  width: 10%;
+  margin: 0 auto;
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.middle-container{
+padding: 100px;
+  background-color: #DEEDF0;
+  position: relative;
+}
+
+
+.bottom-container {
+  padding:50px;
+  background-color: #F4C7AB;
+}
+
+.tools-img {
+  width: 25%;
+  float: left;
+/* margin: 75px auto; */
+/* border: 20px auto; */
+margin-right: 30px;
+}
+
+.binary-img {
+width: 25%;
+float: right;
+margin-left: 30px;
+}
+
+.main-balloon {
+  margin: 50px auto;
+  width: 25%;
+}
+
+.btn {
+  margin-top:  100px;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-weight: bolder;
+  font-size: 20px;
+  padding: 10px 15px;
+  background: #00B4D8;
+  border-radius: 8px;
+  border: none;
+    /* width: 15px;
+  height: 3px; */
+}
+
+.btn:hover{
+  background: #90E0EF;
+}
+
+.copyright {
+  margin: 50px auto 0 auto;
+  color: white;
+  font-weight: 700;
+}
+
+a {
+  /* margin: 20px auto; */
+  text-decoration: none;
+  margin: 0px 20px;
+  font-size: 1.2rem;
+}
+
+a:hover{
+  background: #90E0EF;
+  color: white;
+}
+
+.p-bottom {
+  margin-bottom: 40px;
+}
