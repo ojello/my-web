@@ -148,8 +148,8 @@ a {
 }
 
 a:hover {
-  background: #90e0ef;
-  color: white;
+  /* background: #90e0ef; */
+  color: #00b4d8;
 }
 
 .p-bottom {
